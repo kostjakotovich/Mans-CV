@@ -27,5 +27,5 @@ Krievu: dzimta
 Latviešu: ļoti labi
 Angļu: labi
 
-# Intereses:
+## Intereses:
 Basketbols,velosports,futbols.
