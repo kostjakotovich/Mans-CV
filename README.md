@@ -5,7 +5,7 @@ git add .
 git commit -m "Veiktas izmainas!"
 git push origin main
 
-# Mans CV
+# Curriculum Vitae
 
 ## Vārds,Uzvārds:
 _Konstantīns Kotovičs_![My picture](https://github.com/kostjakotovich/Mans-CV/blob/main/forCV.jpg)
@@ -18,6 +18,9 @@ _kostja.kotovich@gmail.com_
 ## Adrese:
 _Latvija,Ķekava._
 
+## Izglitba:
+*No 1. līdz 4. klasei - 46.vsk., no 5. lī
+
 ## Papildus izglitība:
 *Nekādus papildu kursus neesmu apmeklējis.*
 
@@ -25,9 +28,9 @@ _Latvija,Ķekava._
 *Darba pieredzes nav.*
 
 ## Valodu prasmes:
-*Krievu: dzimta*
-*Latviešu: ļoti labi*
-*Angļu: labi*
+*Krievu: dzimta;*
+*Latviešu: ļoti labi;*
+*Angļu: labi.*
 
 ## Intereses:
 *Basketbols,velosports,futbols.*
