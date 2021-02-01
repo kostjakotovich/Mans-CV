@@ -11,7 +11,7 @@ _kostja.kotovich@gmail.com_
 ## Adrese:
 _Latvija,Ķekava._
 
-## Izglitba:
+## Izglitība:
 * No 1. līdz 4. klasei - 46.vsk.
 * No 5. līdz 9.klasei - 13.vsk.
 * (Abās skolās biju teicamnieks)
