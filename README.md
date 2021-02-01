@@ -8,7 +8,7 @@ git push origin main
 # Mans CV
 
 ## Vārds,Uzvārds:
-_Konstantīns Kotovičs_ !(C:\Users\Konstantins\Pictures\forCV.jpg)
+_Konstantīns Kotovičs_ ![my picture](C:\Users\Konstantins\Pictures\forCV.jpg)
 ## Piedzimšanas datums:
 _01.02.2004_
 ## Tālrunis:
