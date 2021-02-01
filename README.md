@@ -1,10 +1,3 @@
-git config user.name "kostjakotovich"
-git config user.mail "kostja.kotovich@gmail.com"
-
-git add .
-git commit -m "Veiktas izmainas!"
-git push origin main
-
 # Curriculum Vitae
 
 ## Vārds,Uzvārds:
