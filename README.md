@@ -8,24 +8,26 @@ git push origin main
 # Mans CV
 
 ## Vārds,Uzvārds:
-Konstantīns Kotovičs
+_Konstantīns Kotovičs_ !(/images/forCV.jpg)
+## Piedzimšanas datums:
+_01.02.2004_
 ## Tālrunis:
-+371 20407664
+_+371 20407664_
 ## E-pasts:
-kostja.kotovich@gmail.com
+_kostja.kotovich@gmail.com_
 ## Adrese:
-Latvija,Ķekava.
+_Latvija,Ķekava._
 
 ## Papildus izglitība:
-Nekādus papildu kursus neesmu apmeklējis.
+*Nekādus papildu kursus neesmu apmeklējis.*
 
 ## Darba piredze:
-Darba pieredzes nav.
+*Darba pieredzes nav.*
 
 ## Valodu prasmes:
-Krievu: dzimta
-Latviešu: ļoti labi
-Angļu: labi
+*Krievu: dzimta*
+*Latviešu: ļoti labi*
+*Angļu: labi*
 
 ## Intereses:
-Basketbols,velosports,futbols.
+*Basketbols,velosports,futbols.*
