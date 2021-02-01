@@ -13,7 +13,8 @@ _Latvija,Ķekava._
 
 ## Izglitba:
 * No 1. līdz 4. klasei - 46.vsk.
-* no 5. līdz 9.klasei - 13.vsk.
+* No 5. līdz 9.klasei - 13.vsk.
+* (Abās skolās biju teicamnieks)
 * Tagad - PIKC "RVT"
 
 ## Papildus izglitība:
