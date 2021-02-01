@@ -19,18 +19,20 @@ _kostja.kotovich@gmail.com_
 _Latvija,Ķekava._
 
 ## Izglitba:
-*No 1. līdz 4. klasei - 46.vsk., no 5. lī
+*No 1. līdz 4. klasei - 46.vsk.
+*no 5. līdz 9.klasei - 13.vsk.
+*Tagad - PIKC "RVT"
 
 ## Papildus izglitība:
-*Nekādus papildu kursus neesmu apmeklējis.*
+*Nekādus papildu kursus neesmu apmeklējis
 
 ## Darba piredze:
-*Darba pieredzes nav.*
+*Darba pieredzes nav
 
 ## Valodu prasmes:
-*Krievu: dzimta;*
-*Latviešu: ļoti labi;*
-*Angļu: labi.*
+*Krievu: dzimta
+*Latviešu: ļoti labi
+*Angļu: labi
 
 ## Intereses:
-*Basketbols,velosports,futbols.*
+*Basketbols,velosports,futbols
